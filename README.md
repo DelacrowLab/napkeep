@@ -1,5 +1,5 @@
-# Cloakroom
+# Napkeep
 
-Website and privacy policy for the Cloakroom Chrome extension.
+Website and privacy policy for the Napkeep Chrome extension.
 
-https://delacrowlab.github.io/tab-cloakroom/
+https://delacrowlab.github.io/napkeep/
